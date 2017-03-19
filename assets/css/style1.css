@@ -1,0 +1,164 @@
+body {
+
+	background-color: #ffffff; 
+	background-image: url("../images/criz.png");
+	
+	font-family: Arial, sans-serif; 
+
+	margin: 0px auto; 
+	padding: 0;
+
+
+	
+	}
+
+.whiteback {
+	background-color: #ffffff;
+	min-width: 100%;
+	border-bottom: solid #cccccc;
+
+	
+}
+
+.topspace {
+	margin-bottom: 30px;
+}
+
+.tab {
+	text-align: center;
+
+	margin-top: 8px;
+	margin-left: 0px;
+	background-color: #4aaaa5;
+	font-size: 30px;
+	color: #ffffff;
+	width: 250px;
+	vertical-align: bottom;
+	
+}
+
+
+.bottom {
+	
+	vertical-align: bottom;
+	background-color: gray;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+	border-top: solid #4aaaa5;
+	border-top-width:thick;
+	}
+
+
+.whitebackno {
+	
+	background-color: #ffffff;
+	width: 670px;
+	
+}
+
+.whitebackno-sm {
+	background-color: #ffffff;
+	width: 250px;
+	height: 170px;
+	text-align: center;
+
+
+}
+
+.icons {
+
+	width: 50px;
+	height: 50px;
+	margin-left: 3px;
+	margin-right: 3px;
+	
+
+	
+}
+
+
+.bigcolh {
+	height: 450px;
+}
+
+
+.title1 {
+	font-size: 30px;
+	/*  font-weight: lighter;  */
+	font-family: Arial, sans-serif;
+	color: #4aaaa5;
+
+	margin-top: 20px;
+
+}
+
+
+.title {
+	font-size: 18px;
+	font-weight: ;
+	font-family: arial;
+	color: #4aaaa5;
+	text-align: left;
+	padding-bottom: 0px;
+	margin-top: 20px;
+
+}
+
+textarea {
+	
+	text-indent: 5px;
+  	margin-bottom: 0px;
+  	width: 100%;
+  	height: 125px;
+  	font-family: arial;
+  	font-size: 12px;
+  	-webkit-appearance: none;
+  	-moz-appearance: none;
+  	appearance: none;
+  	box-shadow: none;
+  	border-radius: none;
+	color: #111111;
+	border: none;
+	outline: solid 1px;
+	outline-color: lightgray;
+	
+}
+
+.subm {
+	margin-top: 5px;
+	background-color: #4aaaa5;
+	box-shadow: 0px;
+	border: 0px;
+	color: #ffffff;
+	outline: none;
+	min-width: 100px;
+	min-height: 30px;
+	border-radius: 0px;
+	margin-bottom: 5px;
+
+}
+
+.space {
+
+margin-bottom: 10%;
+
+}
+
+.topmarg {
+	margin-top: 20px;
+}
+
+.short {
+	width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
